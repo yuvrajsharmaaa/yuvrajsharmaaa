@@ -62,26 +62,11 @@ I love building cool things with AI, AR/VR, and blockchain—mostly in real esta
 
 ---
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/yuvrajsharmaaa/yuvrajsharmaaa/output/snake.svg" alt="Snake animation" />
-
-###
----
 
 ## ✍️ Random Dev Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
 </p>
-
 ---
-
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=yuvrajsharmaaa&icon=1&color=12">
-  </a>
-</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
