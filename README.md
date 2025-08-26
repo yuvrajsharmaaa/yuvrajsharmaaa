@@ -1,53 +1,119 @@
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="100%">
+<div align="center">
 
-<br><br>
+```
+╭─────────────────────────────────────────────────────────╮
+│                    YUVRAJ SHARMA                        │
+│                 Digital Architect                       │
+╰─────────────────────────────────────────────────────────╯
+```
 
-Ciao, I’m Yuvraj!<br><br>
-I love building cool things with AI, AR/VR, and blockchain—mostly in real estate and architecture. 
+</div>
 
-<span style="display: flex; justify-content: space-between; align-items: center;">
-  <span>
-    My brain runs on tea and my hands work on <br>Revit and Unity. You will always find me chasing the next big idea.
-  </span>
-  <img src="https://tenor.com/view/oops-omg-shocked-ted-how-i-met-your-mother-gif-14909162.gif" height="100" width="100" align="right"/>
-</span>
+### 👋 Hey there!
 
+I'm an architect who builds with both **pixels and blueprints**. Currently designing the future of real estate through AI, AR/VR, and blockchain—one innovative space at a time.
 
-## 🌐 Socials:
-<p align="center">
-  <a href="https://www.instagram.com/yuvrajsharmaaaaaa/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/yuvrajsharma03/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>
-  <a href="https://x.com/yuvrajsharmagya"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white"></a>
-  <a href="https://www.youtube.com/@TheEngineeRooom"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white"></a>
-  <a href="mailto:yuvrajsharmaa2022@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"></a>
+<table>
+<tr>
+<td>
+
+**$ whoami**
+```bash
+> Digital architect merging physical & virtual worlds
+> Tea-powered problem solver ☕
+> Always chasing the next big idea
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🏗️ What I Build
+
+<div align="center">
+
+### Architecture & Design
+```
+Revit      ████████████████████ 95%
+Blender    ███████████████████  90%
+Unity      ██████████████████   85%
+```
+
+### Development
+```
+Python     ████████████████████ 95%
+C#         ██████████████████   85%
+Solidity   ███████████████      75%
+Go         ████████████         60%
+```
+
+</div>
+
+---
+
+## 🎯 Current Mission
+
+<table>
+<tr>
+<td width="33%" align="center">
+<h3>🏠 PropTech Revolution</h3>
+<sub>AI-driven real estate solutions</sub>
+</td>
+<td width="33%" align="center">
+<h3>🥽 Immersive Experiences</h3>
+<sub>AR/VR spaces that feel alive</sub>
+</td>
+<td width="33%" align="center">
+<h3>⛓️ Decentralized Architecture</h3>
+<sub>Blockchain-powered property tech</sub>
+</td>
+</tr>
+</table>
+
+---
+
+## 💭 My Philosophy
+
+<div align="center">
+<table>
+<tr>
+<td align="center">
+<blockquote>
+<h3><em>"Great architecture isn't just about the building—it's about the human experience within."</em></h3>
+</blockquote>
+<p>Every line of code, every 3D model, every smart contract I create serves one purpose:<br>making technology more human, not less.</p>
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+<div align="center">
+
+### Let's create something extraordinary:
+
+<p>
+<a href="https://www.linkedin.com/in/yuvrajsharma03/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:yuvrajsharmaa2022@gmail.com">
+<img src="https://img.shields.io/badge/Email-Let's%20Chat-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://www.youtube.com/@TheEngineeRooom">
+<img src="https://img.shields.io/badge/YouTube-Watch-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+</a>
 </p>
 
 ---
 
-# 💻 Tech Stack:
-<p align="center">
-  <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white">
-  <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-  <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white">
-  <img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white">
-  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white">
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white">
-</p>
+<sub><em>Fueled by tea ☕ | Driven by curiosity 🚀 | Building tomorrow's spaces today</em></sub>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white">
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
-  <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white">
-  <img src="https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white">
-  <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white">
-</p>
+</div>
 
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
-</p>
----
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- 
+🏗️ Built with architectural precision and human touch
+Created by Yuvraj Sharma - Digital Architect
+-->
