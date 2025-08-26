@@ -46,12 +46,6 @@ I love building cool things with AI, AR/VR, and blockchain—mostly in real esta
 
 ---
 
-# 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yuvrajsharmaaa&theme=dark&hide_border=false&include_all_commits=true&count_private=false">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yuvrajsharmaaa&theme=dark&hide_border=false">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvrajsharmaaa&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact">
-</p>
 
 ---
 
