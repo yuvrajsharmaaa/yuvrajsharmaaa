@@ -3,11 +3,7 @@
 
 
 <div align="center">
-
-YUVRAJ SHARMA 
  
-
-
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=00D8FF&center=true&vCenter=true&width=600&lines=AI+Research+%7C+XR+Developer+%7C+Game+Dev;B.Tech+AI+%26+ML+%40+MRIIRS;Hackathon+Winner+%7C+Community+Leader;Building+tomorrow's+tech+today)](https://git.io/typing-svg)
 
