@@ -5,7 +5,7 @@
 <div align="center">
  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=00D8FF&center=true&vCenter=true&width=600&lines=AI+Research+%7C+XR+Developer+%7C+Game+Dev;B.Tech+AI+%26+ML+%40+MRIIRS;Hackathon+Winner+%7C+Community+Leader;Building+tomorrow's+tech+today)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=1000&pause=0&color=00D8FF&center=true&vCenter=true&width=600&lines=AI+Research+%7C+XR+Developer+%7C+Game+Dev;B.Tech+AI+%26+ML+%40+MRIIRS;Hackathon+Winner+%7C+Community+Leader;Building+tomorrow's+tech+today;sex;Coffee+powered+coder;Debugger+of+___;)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://www.instagram.com/yuvrajsharmaaaaaa/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"></a>
