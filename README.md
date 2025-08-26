@@ -2,7 +2,7 @@
 
 <br><br>
 
-👋 Ciao, I’m Yuvraj!<br><br>
+Ciao, I’m Yuvraj!<br><br>
 I love building cool things with AI, AR/VR, and blockchain—mostly in real estate and architecture. 
 
 <span style="display: flex; justify-content: space-between; align-items: center;">
@@ -44,20 +44,7 @@ I love building cool things with AI, AR/VR, and blockchain—mostly in real esta
   <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white">
 </p>
 
----
 
-
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yuvrajsharmaaa&theme=radical&no-frame=false&no-bg=false&margin-w=4">
-</p>
-
----
-
-
-## ✍️ Random Dev Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
 </p>
