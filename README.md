@@ -11,17 +11,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=500&pause=1000&color=00D8FF&center=true&vCenter=true&width=600&lines=AI+Research;AR/VR;Game+Dev;sex;Debugger+of+___)](https://git.io/typing-svg)
 
 <p align="center">
-
   <a href="https://www.instagram.com/yuvrajsharmaaaaaa/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"></a>
-
   <a href="https://www.linkedin.com/in/yuvrajsharma03/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>
-
   <a href="https://x.com/yuvrajsharmagya"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white"></a>
-
   <a href="https://www.youtube.com/@TheEngineeRooom"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white"></a>
-
   <a href="mailto:yuvrajsharmaa2022@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"></a>
-
 </p>
 
 </div>
