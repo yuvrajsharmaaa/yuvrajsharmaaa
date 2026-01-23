@@ -8,7 +8,7 @@
 
  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=500&pause=1000&color=00D8FF&center=true&vCenter=true&width=600&lines=AI+Research;AR/VR;Game+Dev;sex;Debugger+of+___)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=500&pause=1000&color=00D8FF&center=true&vCenter=true&width=600&lines=AI+Research;AR/VR;Game+Dev;Debugger+of+___)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://www.instagram.com/yuvrajsharmaaaaaa/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"></a>
