@@ -4,7 +4,7 @@
 
 <br>
 
-# Hi, I'm Yuvraj 👋
+# hi, this is Yuvraj
 
 <a href="https://git.io/typing-svg">
   <img
@@ -51,40 +51,15 @@ I run **The Enginee Room**, a student community for game dev and AR/XR — start
 
 <br>
 
-## Contribution Skyline
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/yuvrajsharmaaa/yuvrajsharmaaa/main/profile-3d-contrib/profile-night-green.svg" alt="3D contribution skyline" width="100%" />
-</div>
-
-<sub>Renders your contributions as a 3D city — taller buildings, more commits that day. Needs the workflow set up once (see note below).</sub>
-
-<br><br>
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=yuvrajsharmaaa&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvrajsharmaaa&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
 
-</div>
-
-<sub><em>swap `yuvrajsharmaaa` above for your actual GitHub username if this isn't it</em></sub>
-
-<br><br>
 
 <div align="center">
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="dev quote" />
 
 <img src="https://cataas.com/cat?width=160" width="160" alt="random cat" />
-
-<br><br>
-
-<a href="https://yuvrajwork.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-00D8FF?style=flat-square&logo=vercel&logoColor=white" /></a>
-<a href="https://github.com/yuvrajsharmaaa"><img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white" /></a>
-
-<br><br>
-
-<sub>Fueled by tea, driven by curiosity ☕</sub>
 
 </div>
