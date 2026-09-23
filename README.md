@@ -25,9 +25,13 @@
 
 ## About
 
-I'm a software engineer currently building an AI pipeline that pulls structured data out of government tender PDFs — the kind of documents nobody wants to read by hand. When I'm not doing that, I'm usually in Unity or Blender, or testing out whatever Web3 idea I got stuck on that week.
+I usually work across three distinct tech stacks because curiosity never let me stay idle. Most days, I'm doing full-stack development, helping businesses improve their websites or build better digital products using web and XR tech.
 
-I run **The Enginee Room**, a student community for game dev and AR/XR — started it because I couldn't find one, so I made one. 100+ members, 50+ people mentored, a handful of workshops run so far.
+When I'm not doing that, I'm usually building games, jumping into hackathons, or messing around with ideas just to see if they work.
+
+I didn't get into programming with a big plan. I started because I was curious, and that curiosity still drives how I work today. My process is simple: try something new, break it, learn from it, and build it better the next time.
+
+That mindset shows up in everything I build—whether it's a website, an experiment, or a side project. If you share the same curiosity or like my work and want to hire me, feel free to connect.
 
 <br>
 
