@@ -13,11 +13,29 @@
   />
 </a>
 
-<a href="https://www.linkedin.com/in/yuvrajsharma03/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="https://x.com/yuvrajsharmagya"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" /></a>
-<a href="https://www.instagram.com/yuvrajsharmaaaaaa/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
-<a href="https://www.youtube.com/@TheEngineeRooom"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" /></a>
-<a href="mailto:yuvrajsharmaa2022@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+<br>
+
+<a href="https://yuvrajwork.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-00D8FF?style=flat-square&logo=vercel&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/yuvrajsharma03/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/yuvrajsharmaaa">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+</a>
+<a href="https://x.com/yuvrajsharmagya">
+  <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/yuvrajsharmaaaaaa/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
+</a>
+<a href="https://www.youtube.com/@TheEngineeRooom">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" />
+</a>
+<a href="mailto:yuvrajsharmaa2022@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
+</a>
 
 </div>
 
@@ -37,28 +55,15 @@ That mindset shows up in everything I build—whether it's a website, an experim
 
 ## Stack
 
-**AI / ML**
-<br>
-<img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,opencv" />
+**AI / ML** <br> <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,opencv" />
 
-**Game Dev / XR**
-<br>
-<img src="https://skillicons.dev/icons?i=unity,unreal,blender" />
+**Game Dev / XR** <br> <img src="https://skillicons.dev/icons?i=unity,unreal,blender" />
 
-**Full Stack / Web3**
-<br>
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,solidity,threejs" />
+**Full Stack / Web3** <br> <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,solidity,threejs" />
 
-**Languages & Infra**
-<br>
-<img src="https://skillicons.dev/icons?i=cs,c,go,r,vercel,azure" />
+**Languages & Infra** <br> <img src="https://skillicons.dev/icons?i=cs,c,go,r,vercel,azure" />
 
 <br>
-
-
-<div align="center">
-
-
 
 <div align="center">
 
