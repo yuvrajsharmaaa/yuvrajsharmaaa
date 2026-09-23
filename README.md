@@ -31,7 +31,7 @@ When I'm not doing that, I'm usually building games, jumping into hackathons, or
 
 I didn't get into programming with a big plan. I started because I was curious, and that curiosity still drives how I work today. My process is simple: try something new, break it, learn from it, and build it better the next time.
 
-That mindset shows up in everything I build—whether it's a website, an experiment, or a side project. If you share the same curiosity or like my work and want to hire me, feel free to connect.
+That mindset shows up in everything I build—whether it's a website, an experiment, or a side project. If you share the same curiosity or like my work, feel free to connect.
 
 <br>
 
